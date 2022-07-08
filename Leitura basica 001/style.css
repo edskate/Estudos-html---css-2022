@@ -69,3 +69,9 @@ details > p {
   margin: 0;
   box-shadow: 3px 3px 4px black;
 }
+a {
+  color: #fff;
+  text-decoration: none;
+  font-style: italic;
+  font-size: 25px;
+}
